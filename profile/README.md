@@ -1,1 +1,3 @@
-![Given the pace of technlogy](given-the-pace-of-technology.png)
+<div align="center">
+  <img src="given-the-pace-of-technology.png" alt="Given the pace of technlogy">
+</div>
